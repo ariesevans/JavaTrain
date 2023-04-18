@@ -1,6 +1,6 @@
-package ch00.sec02;
+package choo.sec03;
 
-public class Test11 {
+public class Package {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
