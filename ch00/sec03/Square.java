@@ -1,4 +1,4 @@
-package choo.sec03;
+package ch00.sec03;
 
 import java.util.Scanner;
 
