@@ -13,7 +13,7 @@ public class Average3B {
 		System.out.println("z값:"); int z=stdIn.nextInt();
 		
 		double ave=(double)(x+y+z)/3;
-		System.out.printf("x,y,z의 평균은 %.5f입니다.\n",ave);
+		System.out.printf("x,y,z의 평균은 %.3f입니다.\n",ave);
 		
 	}
 
